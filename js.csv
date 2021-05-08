@@ -1,0 +1,11 @@
+Question,A,B,C,D,ANSWER
+Q : Which type of JavaScript language is ___,Object-Oriented,Object-Based,Assembly-language,High-level,B
+"Q : In JavaScript, what is a block of statement?",Conditional block,block that combines a number of statements into a single compound statement,both conditional block and a single statement,block that contains a single statement,B
+"Q : When interpreter encounters an empty statements, what it will do:",Shows a warning,Prompts to complete the statement,Throws an error,Ignores the statements,D
+"Q : The ""function"" and "" var"" are known as:",Keywords,Data types,Declaration statements,Prototypes,C
+Q : Which of the following variables takes precedence over the others if the names are the same?,Global variable,The local element,The two of the above,None of the above,B
+Q : Which one of the following is the correct way for calling the JavaScript code?,Preprocessor,Triggering Event,RMI,Function/Method,D
+Q : Which of the following type of a variable is volatile?,Mutable variable,Dynamic variable,Volatile variable,Immutable variable,A
+Q : Which of the following option is used as hexadecimal literal beginning?,0,0x,0X,Both 0x and 0X,D
+"Q : When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints______.",Prints an exception error,Prints an overflow error,"Displays ""Infinity""",Prints the value as such,D
+"Q : In the JavaScript, which one of the following is not considered as an error:",Syntax error,Missing of semicolons,Division by zero,Missing of Bracket,C

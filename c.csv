@@ -1,0 +1,11 @@
+Question,A,B,C,D,ANSWER
+Q : What is the 16-bit compiler allowable range for integer constants?,-3.4e38 to 3.4e38,-32767 to 32768,-32668 to 32667,-32768 to 32767,D
+Q : What is required in each C program?,The program must have at least one function.,The program does not require any function.,Input data,Output data,A
+Q : Which of the following comment is correct when a macro definition includes arguments?,The opening parenthesis should immediately follow the macro name.,There should be at least one blank between the macro name and the opening parenthesis.,There should be only one blank between the macro name and the opening parenthesis.,All the above comments are correct.,A
+Q : What is a lint?,C compiler,Interactive debugger,Analyzing tool,C interpreter,C
+"Q : What is the output of this statement ""printf(""%d"", (a++))""?",The value of (a + 1),The current value of a,Error message,Garbage,B
+Q : Why is a macro used in place of a function?,It reduces execution time.,It reduces code size.,It increases execution time.,It increases code size.,D
+"Q : In the C language, the constant is defined ______",Before main,After main,"Anywhere, but starting on a new line.",None of the these.,C
+Q : Which one of the following is a loop construct that will always be executed once?,for,while,switch,do while,D
+Q : Which of the following best describes the ordering of destructor calls for stack-resident objects in a routine?,The first object created is the first object destroyed; last created is last destroyed.,The first object destroyed is the last object destroyed; last created is first destroyed.,"Objects are destroyed in the order they appear in memory, the object with the lowest memory address is destroyed first.",The order is undefined and may vary from compiler to compiler.,B
+Q : Directives are translated by the,Pre-processor,Compiler,Linker,Editor,A

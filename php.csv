@@ -1,0 +1,11 @@
+Question,A,B,C,D,ANSWER
+Q : The term PHP is an acronym for PHP:_______________.,Hypertext Preprocessor,Hypertext multiprocessor,Hypertext markup Preprocessor,Hypertune Preprocessor,A
+Q : PHP is a ____________ language?,user-side scripting,client-side scripting,server-side scripting,Both B and C,C
+Q : Who among this is the founder of php language?,Tim Berners-Lee,Brendan Eich,Guido van Rossum,Rasmus Lerdorf,D
+Q : In which year php was created?,1993,1994,1995,1996,B
+Q : PHP files have a default file extension of_______.,html,.xml,.php,.hphp,C
+Q : Which of the following is the correct syntax of php?,<?php >,<php >,?php ?,<?php ?>,D
+Q : Which of the following is the latest version of php?,7.1,7.2,7.3,7.4,B
+Q : Which of the following is the Release date of latest version (7.2) of php?,27 November 2017.,28 November 2017.,29 November 2017.,30 November 2017.,D
+Q : Which of the below statements is equivalent to $sub -= $sub?,$sub = $sub,$sub = $sub -$sub,$sub = $sub - 1,$sub = $sub - $sub - 1,B
+Q : Which statement will output $lfc on the screen?,"echo ""$lfc"";","echo ""$$lfc"";","echo ""/$lfc"";","echo ""$lfc;"";",A
