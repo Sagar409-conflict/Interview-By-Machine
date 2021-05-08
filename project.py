@@ -41,7 +41,7 @@ def verifyAns(whole):
     attempt_ans += 1
     if whole[5][0] == clicked.get() :
         right_ans += 1
-    elif "Skip" == clicked.get():
+    elif "Skip" == clicked.get() or "Select an Option" == clicked.get():
         skip_ans += 1
     else:
         wrong_ans += 1
@@ -97,11 +97,11 @@ def funct_q_gen(self):
     te234.pack()
     
     
-    
+    clicked.set("Select an Option")
     drop = OptionMenu(QA,clicked,"A","B","C","D","Skip")
     drop.pack()
     
-    lock = Button(QA,text="Lock Answer",font = "Helvetica 18 bold italic",command = lambda : verifyAns(print_sample),padx=20,pady=5,fg="black",bg="#44cf52").place(x=420,y=180)
+    lock = Button(QA,text="Lock Answer",font = "Helvetica 18 bold italic",command = lambda : verifyAns(print_sample),padx=20,pady=5,fg="black",bg="#44cf52").place(x=380,y=180)
     stop = Button(QA,text="Stop Attempt",font = "Helvetica 18 bold italic",command = root.destroy,padx=20,pady=5,fg="white",bg="#ec2727").place(x=820,y=180)
     #clicked.set(clicked.get())
     #print(f"Answer {clicked.get()}")
